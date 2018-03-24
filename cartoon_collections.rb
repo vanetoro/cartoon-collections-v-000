@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(array)
   array.each do |element|
-    puts 'hello'
+    puts "#{element"
   end
 end
 
